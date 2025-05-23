@@ -1,0 +1,13 @@
+chainlit>=2.5.5
+fastapi>=0.115.12
+flask>=3.1.1
+ipykernel>=6.29.5
+langchain>=0.3.25
+langchain-community>=0.3.24
+langchain-experimental>=0.3.4
+langchain-openai>=0.3.18
+langchain-pinecone>=0.2.6
+pinecone-client>=2.2.4  
+pypdf>=5.5.0
+python-dotenv>=1.1.0
+sentence-transformers>=2.2.2
